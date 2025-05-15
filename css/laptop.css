@@ -1,0 +1,14 @@
+/* 1439px - 769px */
+@media (max-width:1300px) {
+    .section2 {
+        height: 365px;
+    }
+    
+}
+@media (max-width:834px) {
+    .section1 {
+        width: 834px;
+        height: 438px;
+    }
+   
+}

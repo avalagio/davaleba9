@@ -1,0 +1,11 @@
+/* 480px -320px */
+@media (max-width:375px) {
+    h2 {
+        font-size: 32px;
+        line-height: 40px;
+    }
+    button {
+    font-size: 20px;
+    line-height: 28px;
+    }
+}
